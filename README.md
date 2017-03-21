@@ -13,3 +13,9 @@ To build it you currently need maven to be installed locally (a maven wrapper wi
 You should then be able to run the application with
 
     java -jar .\target\myproject-0.0.1-SNAPSHOT.jar
+
+And browse to
+
+    http://localhost:8080
+
+to see 'Hello World'
