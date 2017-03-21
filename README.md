@@ -6,9 +6,15 @@ The application is a very simple Spring Boot web application which does nothing 
 
 # Building
 
-To build it you currently need maven to be installed locally (a maven wrapper will be added later). If maven is on your path then the following should work
+To build it run
 
-    mvn package
+    ./mvnw package
+
+or, if you are using Windows:
+
+    ./mvnw.cmd package
+
+This will download maven the first time you run it.
 
 You should then be able to run the application with
 
