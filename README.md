@@ -8,8 +8,8 @@ The application is a very simple Spring Boot web application which does nothing 
 
 To build it you currently need maven to be installed locally (a maven wrapper will be added later). If maven is on your path then the following should work
 
-`mvn package
+    mvn package
 
 You should then be able to run the application with
 
-`java -jar .\target\myproject-0.0.1-SNAPSHOT.jar
+    java -jar .\target\myproject-0.0.1-SNAPSHOT.jar
